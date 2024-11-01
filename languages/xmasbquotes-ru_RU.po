@@ -1,0 +1,230 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: XmasB Quotes-ru\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-11-26 08:41+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Yngve Thoresen <yngve.thoresen@gmail.com>\n"
+"Language-Team: WordpressPlugins.ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Russian\n"
+"X-Poedit-Country: RUSSIAN FEDERATION\n"
+
+#: ../xmasbquotes.php:102
+#: ../xmasbquotes.php:150
+#: ../xmasbquotes.php:481
+#: ../xmasbquotes.php:654
+msgid "No quotes found"
+msgstr "Цитаты не найдены"
+
+#: ../xmasbquotes.php:293
+#: ../xmasbquotes.php:634
+#: ../xmasbquotes.php:709
+msgid "Edit"
+msgstr "Редактировать"
+
+#: ../xmasbquotes.php:294
+#: ../xmasbquotes.php:535
+#: ../xmasbquotes.php:587
+#: ../xmasbquotes.php:638
+#: ../xmasbquotes.php:709
+msgid "Delete"
+msgstr "Удалить"
+
+#: ../xmasbquotes.php:334
+msgid "Show images"
+msgstr "Показывать картинки"
+
+#: ../xmasbquotes.php:336
+#: ../xmasbquotes.php:627
+msgid "Yes"
+msgstr "Да"
+
+#: ../xmasbquotes.php:337
+#: ../xmasbquotes.php:628
+msgid "No"
+msgstr "Нет"
+
+#: ../xmasbquotes.php:341
+msgid "Default image"
+msgstr "Картинка по умолчанию"
+
+#: ../xmasbquotes.php:347
+msgid "HTML before image"
+msgstr "HTML перед картинкой"
+
+#: ../xmasbquotes.php:353
+msgid "HTML after image"
+msgstr "HTML после картинки"
+
+#: ../xmasbquotes.php:359
+msgid "HTML before quote"
+msgstr "HTML перед цитатой"
+
+#: ../xmasbquotes.php:365
+msgid "HTML after quote"
+msgstr "HTML после цитаты"
+
+#: ../xmasbquotes.php:371
+msgid "HTML before author"
+msgstr "HTML перед автором цитаты"
+
+#: ../xmasbquotes.php:377
+msgid "HTML after author"
+msgstr "HTML после автора цитаты"
+
+#: ../xmasbquotes.php:385
+msgid "Save"
+msgstr "Сохранить"
+
+#: ../xmasbquotes.php:428
+msgid "Could not add quote. No quote entered."
+msgstr "Нельзя добавить цитату, так как она не была введена."
+
+#: ../xmasbquotes.php:439
+#, php-format
+msgid "Could not add quote \"%1$s\". Quote already exists without author."
+msgstr "Нельзя добавить цитату \"%1$s\", потому что такая цитата уже существует."
+
+#: ../xmasbquotes.php:443
+#, php-format
+msgid "Could not add quote \"%1$s\". Quote already exists for author \"%2$s\"."
+msgstr "Нельзя добавить цитату \"%1$s\", потому что такая цитата с таким автором (\"%2$s\") уже существует."
+
+#: ../xmasbquotes.php:460
+msgid "Unknown Error Occured"
+msgstr "Произошла неизвестная ошибка"
+
+#: ../xmasbquotes.php:464
+msgid "Quote has been added with id"
+msgstr "Была добавлена цитата с ID"
+
+#: ../xmasbquotes.php:470
+#, fuzzy
+msgid "All hell is lose"
+msgstr "Черт его знает"
+
+#: ../xmasbquotes.php:470
+msgid "quotes added!"
+msgstr "цитаты добавлены!"
+
+#: ../xmasbquotes.php:488
+msgid "Number of quotes"
+msgstr "Число цитат"
+
+#: ../xmasbquotes.php:491
+msgid "Add new"
+msgstr "Добавить новую цитату"
+
+#: ../xmasbquotes.php:526
+msgid "Quote has been edited"
+msgstr "Цитата была отредактирована"
+
+#: ../xmasbquotes.php:531
+msgid "Could not edit quote."
+msgstr "Невозможно отредактировать цитату (вероятно вы ее не изменили)"
+
+#: ../xmasbquotes.php:539
+#: ../xmasbquotes.php:551
+msgid "Failure:"
+msgstr "Ошибка:"
+
+#: ../xmasbquotes.php:539
+msgid "No quote ID given."
+msgstr "Нет цитаты с данным ID."
+
+#: ../xmasbquotes.php:547
+#: ../xmasbquotes.php:601
+msgid "Quote"
+msgstr "Цитата"
+
+#: ../xmasbquotes.php:547
+msgid "deleted successfully"
+msgstr "удалена удачно"
+
+#: ../xmasbquotes.php:551
+msgid "Could not delete quote."
+msgstr "Невозможно удалить цитату."
+
+#: ../xmasbquotes.php:560
+msgid "Mode:"
+msgstr "Режим:"
+
+#: ../xmasbquotes.php:566
+msgid "WTH?!?"
+msgstr "Какого черта?!?"
+
+#: ../xmasbquotes.php:573
+msgid "No quote found for id"
+msgstr "С таким ID цитата не найдена"
+
+#: ../xmasbquotes.php:588
+#: ../xmasbquotes.php:634
+#: ../xmasbquotes.php:725
+msgid "Add New Quote"
+msgstr "Добавить новую цитату"
+
+#: ../xmasbquotes.php:590
+msgid "Edit Quote"
+msgstr "Редактировать цитату"
+
+#: ../xmasbquotes.php:607
+msgid "Author"
+msgstr "Автор цитаты"
+
+#: ../xmasbquotes.php:607
+#: ../xmasbquotes.php:613
+#: ../xmasbquotes.php:619
+msgid "Optional"
+msgstr "Необязательно"
+
+#: ../xmasbquotes.php:613
+msgid "Image"
+msgstr "Картинка"
+
+#: ../xmasbquotes.php:619
+#, fuzzy
+msgid "Link"
+msgstr "Ссылка"
+
+#: ../xmasbquotes.php:625
+msgid "Visible"
+msgstr "Цитата видна?"
+
+#: ../xmasbquotes.php:641
+msgid "Reset"
+msgstr "Сбросить"
+
+#: ../xmasbquotes.php:649
+msgid "Statistics"
+msgstr "Статистика"
+
+#: ../xmasbquotes.php:656
+msgid "Last 5 quotes added"
+msgstr "Последние 5 добавленных цитат"
+
+#: ../xmasbquotes.php:672
+#, php-format
+msgid "Show all %1$d quotes"
+msgstr "Показать все (%1$d) цитаты"
+
+#: ../xmasbquotes.php:677
+#, fuzzy
+msgid "Export"
+msgstr "Экспорт"
+
+#: ../xmasbquotes.php:693
+msgid "Duplicates"
+msgstr "Дупликаты"
+
+#: ../xmasbquotes.php:770
+msgid "Cannot find the XmasB quotes plugin. If you have installed it check if you have activated it. If you have not installed it, you can download it from"
+msgstr "Невозможно найти плагин XmasB quotes. Если вы его установили, то проверьте, что он активирован. Если вы его не установили, то вы можете скачать его отсюда"
+
+#~ msgid "by"
+#~ msgstr "от"
+
+#~ msgid "Show link to author"
+#~ msgstr "Показывать ссылку на автора плагина"

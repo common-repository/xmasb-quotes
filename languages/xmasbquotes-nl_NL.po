@@ -1,0 +1,228 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: XMasB Quotes v1.4.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-11-26 08:41+0100\n"
+"PO-Revision-Date: 2010-11-26 08:51+0100\n"
+"Last-Translator: Yngve Thoresen <yngve.thoresen@gmail.com>\n"
+"Language-Team: Translation by WordPressWebshop.com <info@wpwebshop.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Dutch\n"
+"X-Poedit-Country: NETHERLANDS\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#: ../xmasbquotes.php:102
+#: ../xmasbquotes.php:150
+#: ../xmasbquotes.php:481
+#: ../xmasbquotes.php:654
+msgid "No quotes found"
+msgstr "Geen citaten gevonden"
+
+#: ../xmasbquotes.php:293
+#: ../xmasbquotes.php:634
+#: ../xmasbquotes.php:709
+msgid "Edit"
+msgstr "Bewerken"
+
+#: ../xmasbquotes.php:294
+#: ../xmasbquotes.php:535
+#: ../xmasbquotes.php:587
+#: ../xmasbquotes.php:638
+#: ../xmasbquotes.php:709
+msgid "Delete"
+msgstr "Verwijderen"
+
+#: ../xmasbquotes.php:334
+msgid "Show images"
+msgstr "Afbeeldingen weergeven"
+
+#: ../xmasbquotes.php:336
+#: ../xmasbquotes.php:627
+msgid "Yes"
+msgstr "Ja"
+
+#: ../xmasbquotes.php:337
+#: ../xmasbquotes.php:628
+msgid "No"
+msgstr "Nee"
+
+#: ../xmasbquotes.php:341
+msgid "Default image"
+msgstr "Standaard afbeelding"
+
+#: ../xmasbquotes.php:347
+msgid "HTML before image"
+msgstr "HTML voor afbeelding"
+
+#: ../xmasbquotes.php:353
+msgid "HTML after image"
+msgstr "HTML na afbeelding"
+
+#: ../xmasbquotes.php:359
+msgid "HTML before quote"
+msgstr "HTML voor citaat"
+
+#: ../xmasbquotes.php:365
+msgid "HTML after quote"
+msgstr "HTML na citaat"
+
+#: ../xmasbquotes.php:371
+msgid "HTML before author"
+msgstr "HTML voor auteur"
+
+#: ../xmasbquotes.php:377
+msgid "HTML after author"
+msgstr "HTML na auteur"
+
+#: ../xmasbquotes.php:385
+msgid "Save"
+msgstr "Opslaan"
+
+#: ../xmasbquotes.php:428
+msgid "Could not add quote. No quote entered."
+msgstr "Kon geen citaat toevoegen. Geen citaat ingevoerd."
+
+#: ../xmasbquotes.php:439
+#, php-format
+msgid "Could not add quote \"%1$s\". Quote already exists without author."
+msgstr "Kon niet citaat \"%1$s\" toevoegen. Citaat bestaat al zonder auteur."
+
+#: ../xmasbquotes.php:443
+#, php-format
+msgid "Could not add quote \"%1$s\". Quote already exists for author \"%2$s\"."
+msgstr "Kon niet citaat \"%1$s\" toevoegen. Citaat bestaat al voor auteur \"%2$s\"."
+
+#: ../xmasbquotes.php:460
+msgid "Unknown Error Occured"
+msgstr "Onbekende Fout Voorgevallen"
+
+#: ../xmasbquotes.php:464
+msgid "Quote has been added with id"
+msgstr "Citaat is toegevoegd met id"
+
+#: ../xmasbquotes.php:470
+msgid "All hell is lose"
+msgstr "De hel is uitgebroken"
+
+#: ../xmasbquotes.php:470
+msgid "quotes added!"
+msgstr "citaten toegevoegd!"
+
+#: ../xmasbquotes.php:488
+msgid "Number of quotes"
+msgstr "Aantal citaten"
+
+#: ../xmasbquotes.php:491
+msgid "Add new"
+msgstr "Nieuw toevoegen"
+
+#: ../xmasbquotes.php:526
+msgid "Quote has been edited"
+msgstr "Citaat is bewerkt"
+
+#: ../xmasbquotes.php:531
+msgid "Could not edit quote."
+msgstr "Kon het citaat niet bewerken"
+
+#: ../xmasbquotes.php:539
+#: ../xmasbquotes.php:551
+msgid "Failure:"
+msgstr "Fout:"
+
+#: ../xmasbquotes.php:539
+msgid "No quote ID given."
+msgstr "Geen citaat ID aangegeven."
+
+#: ../xmasbquotes.php:547
+#: ../xmasbquotes.php:601
+msgid "Quote"
+msgstr "Citaat"
+
+#: ../xmasbquotes.php:547
+msgid "deleted successfully"
+msgstr "succesvol verwijderd"
+
+#: ../xmasbquotes.php:551
+msgid "Could not delete quote."
+msgstr "Kon citaat niet verwijderen."
+
+#: ../xmasbquotes.php:560
+msgid "Mode:"
+msgstr "Modus:"
+
+#: ../xmasbquotes.php:566
+msgid "WTH?!?"
+msgstr "WTH?!?"
+
+#: ../xmasbquotes.php:573
+msgid "No quote found for id"
+msgstr "Geen citaat gevonden voor id"
+
+#: ../xmasbquotes.php:588
+#: ../xmasbquotes.php:634
+#: ../xmasbquotes.php:725
+msgid "Add New Quote"
+msgstr "Toevoegen Nieuw Citaat"
+
+#: ../xmasbquotes.php:590
+msgid "Edit Quote"
+msgstr "Citaat Bewerken"
+
+#: ../xmasbquotes.php:607
+msgid "Author"
+msgstr "Auteur"
+
+#: ../xmasbquotes.php:607
+#: ../xmasbquotes.php:613
+#: ../xmasbquotes.php:619
+msgid "Optional"
+msgstr "Optioneel"
+
+#: ../xmasbquotes.php:613
+msgid "Image"
+msgstr "Afbeelding"
+
+#: ../xmasbquotes.php:619
+msgid "Link"
+msgstr ""
+
+#: ../xmasbquotes.php:625
+msgid "Visible"
+msgstr "Zichtbaar"
+
+#: ../xmasbquotes.php:641
+msgid "Reset"
+msgstr "Reset"
+
+#: ../xmasbquotes.php:649
+msgid "Statistics"
+msgstr "Statistieken"
+
+#: ../xmasbquotes.php:656
+msgid "Last 5 quotes added"
+msgstr "Laatst 5 toegevoegde citaten"
+
+#: ../xmasbquotes.php:672
+#, php-format
+msgid "Show all %1$d quotes"
+msgstr "Laat alle %1$d citaten zien"
+
+#: ../xmasbquotes.php:677
+msgid "Export"
+msgstr ""
+
+#: ../xmasbquotes.php:693
+msgid "Duplicates"
+msgstr "Duplicaten"
+
+#: ../xmasbquotes.php:770
+msgid "Cannot find the XmasB quotes plugin. If you have installed it check if you have activated it. If you have not installed it, you can download it from"
+msgstr "Kan de XmasB quotes plugin niet vinden. Wanneer je het geïnstalleerd hebt controleer of je het geactiveerd hebt. Wanneer je het niet geïnstalleerd hebt kun je het downloaden van"
+
+#~ msgid "by"
+#~ msgstr "door"
+
+#~ msgid "Show link to author"
+#~ msgstr "Weergave link naar auteur"
